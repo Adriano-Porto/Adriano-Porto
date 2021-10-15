@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adriano Porto, 16
+- 👋 Hi, I’m Adriano Porto
 - 👀 I'm interesting in discovering and exploring new technologies
 - 🌱 I'm learning Typescript, Javascript, Node.js, React.js, CSS and HTML.
 
