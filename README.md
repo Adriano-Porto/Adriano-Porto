@@ -1,6 +1,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwMBbCKKFKLLBzfPswNHdjdXWfTGnGRVHzsFmKBDwXlDdnxbqxgtGLhxKwMPXRJTsfrFg](https://criarmeulink.com.br/u/1697676780))
 - ---------------------------------------------------
-- 👋 Hi, I’m Adriano Porto
+👋 Hi, I’m Adriano Porto
 ![Adriano Porto stats](https://github-readme-stats.vercel.app/api?username=Adriano-Porto&show_icons=true&theme=merko&count_private=true)
 - Technologies I use
 
