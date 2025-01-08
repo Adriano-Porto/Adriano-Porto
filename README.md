@@ -24,4 +24,4 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true" />
-     <img height=350  src="https://github-readme-stats.vercel.app/api?username=HiuTsu" />
+     <img height=350  src="https://github-readme-stats.vercel.app/api?username=Adriano-Porto" />
