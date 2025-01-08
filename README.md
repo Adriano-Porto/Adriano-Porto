@@ -16,12 +16,12 @@
   </picture>
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HiuTsu&layout=compact&theme=merko&"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Porto&layout=compact&theme=merko&"
       media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=HiuTsu&layout=compact&show_icons=true"
+    srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Porto&layout=compact&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adriano-Porto&show_icons=true" />
      <img height=350  src="https://github-readme-stats.vercel.app/api?username=Adriano-Porto" />
